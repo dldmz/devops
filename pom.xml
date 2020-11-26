@@ -28,9 +28,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:dldmz/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:dldmz/devops.git</developerConnection>
-		<url>https://github.com/dldmz/features-nv101_initial_landing_page.git</url>
+		<connection>scm:git:git@github.com:dldmz/mavenExample.git</connection>
+		<developerConnection>scm:git:git@github.com:dldmz/mavenExample.git</developerConnection>
+		<url>https://github.com/dldmz/mavenExample.git</url>
 		<tag>v1.0.5</tag>
 	</scm>
 
